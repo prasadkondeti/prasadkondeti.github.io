@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "DevOps Block"
+title                    : "DevOps Blog"
 title_separator          : "-"
 name                     : "Tesco"
 description              : "An amazing website."
